@@ -1,7 +1,5 @@
-# priviaProject
- 
+# Network-Market
 
-# INSTALL
+ python3 apis.py
 
-### npm i 
-### for api 'python3 api-name.py'
+ npm start
